@@ -1,7 +1,10 @@
-#include <ctype.h>
+/**
+ * Sample program for testing the chaos queue.
+ *
+ * Author: Rick Coogle, PhD
+ */
 #include <stdio.h>
-#include <stdlib.h>
-
+#include <stdint.h>
 #include "chaos_queue.h"
 
 #define QUEUE_SIZE 100

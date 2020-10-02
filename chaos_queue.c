@@ -7,7 +7,6 @@
  *
  */
  
-#include <stdio.h>
 #include <stdlib.h>
 
 #include "chaos_queue.h"
