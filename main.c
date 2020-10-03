@@ -4,6 +4,7 @@
  * Author: Rick Coogle, PhD
  */
 #include <stdio.h>
+#include <stdlib.h>
 #include <stdint.h>
 #include "chaos_queue.h"
 
