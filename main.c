@@ -33,4 +33,6 @@ int main(int argc, char** argv)
     }
     
     chaos_queue_destroy(&queue);
+    
+    return EXIT_SUCCESS;
 }
